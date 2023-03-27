@@ -1,0 +1,4 @@
+Green Traffic Light
+Person
+Red Traffic Light
+Stop Sign

@@ -4,3 +4,4 @@ variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 training_demo/exported-models/model2/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 training_demo/tflite-models/test/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 training_demo/tflite-models/test/saved_model/saved_model.pb filter=lfs diff=lfs merge=lfs -text
+training_demo/tflite-models/test3/* filter=lfs diff=lfs merge=lfs -text
